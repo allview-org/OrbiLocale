@@ -186,7 +186,7 @@ C2-AV-IMN 寰境再製 OrbiLocale 多語系內容再製與文化轉譯代理引�
   "target_locales": ["en-US", "ja-JP", "de-DE"],
   "content_payload": {
     "landing_page": {
-      "headline": "全球首創 FHE 私密 AI NAS，個人資料永不離境",
+      "headline": "全球首創密文智庫（EncryMind），個人資料永不離境",
       "body_markdown": "## 核心優勢\n1. 支援全同態加密運算\n2. 售價 NT$80,000 起...",
       "compliance_notes": "通過 ISO/IEC 27001 驗證準備中，非醫療器材"
     },
