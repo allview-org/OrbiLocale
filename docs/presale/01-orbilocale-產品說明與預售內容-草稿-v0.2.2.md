@@ -14,7 +14,7 @@ v0.2.2（2026-11-14，Asia/Taipei）：依使用者 2026-11-14 14:35 指示，�
 
 v0.2.1（2026-11-13，Asia/Taipei）：依使用者 2026-11-13 指示，對外產品顯示名稱由「FHE AI NAS」及「亞傑師私有金庫 / AEGIS Vault / AEGIS-Vault」統一為「密文智庫 / EncryMind」。僅替換散文、標題與表頭中的顯示名稱；repo 名稱 AEGIS-Vault、org、產品代號、檔名主體、URL、CTA 代碼、分支與程式識別字不變。其餘內容不變，仍為草稿。
 
-v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.center）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
+v0.2（2026-11-10）：依主 PMO 確認統一品牌名稱與官方網域為 斜槓一二三 / Slash123（slash1to3.com）、斜槓104 / Slash104（slash1ofours.com）、水月道場 / Wonderland Center（wonderland.ngo）；僅移除官方網域選擇的待確認標註，其餘待確認與內容維持草稿
 
 ---
 
